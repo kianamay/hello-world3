@@ -3,7 +3,12 @@ body{
     background: #fff;
     font-family: Helvetica, sans-serif;
 }
-
+img1{
+    float:left;
+}
+h1{
+    float:right;
+}
 img{
     width: 100%;
 }
