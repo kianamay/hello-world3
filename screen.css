@@ -4,7 +4,14 @@ body{
     font-family: Helvetica, sans-serif;
     border-top: 15px solid #424242;
     margin: 0;
-    
+}
+
+main{
+    margin: 0 auto;
+    width: 800 px;
+}
+.details{
+    display:flex;
 }
 img{
     width: 100%;
